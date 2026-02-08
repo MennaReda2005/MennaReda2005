@@ -1,16 +1,80 @@
-## Hi there 👋
+<h1 align="left">Hi 👋! My name is Menna .</h1>
 
-<!--
-**MennaReda2005/MennaReda2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<h2 align="center">Machine Learning Engineer    | Building Predictive Models from Real Data</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h2 align="left">My Profiles</h2>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExenJxM282Yzdta3Jsbnl5N3k2c2tjZTFiOGU5MWxrd2pkaGZ5YWRhdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5k5vZwRFZR5aZeniqb/giphy.gif"  />
+
+###
+
+<h2 align="left">Language</h2>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"  />
+</div>
+
+###
+
+<h2 align="left">ML Libraries</h2>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=black&style=for-the-badge" height="40" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge" height="40" alt="opencv logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" height="40" alt="pytorch logo"  />
+</div>
+
+###
+
+<h2 align="left">Tools</h2>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=black&style=for-the-badge" height="40" alt="gitlab logo"  />
+</div>
+
+###
+
+<h2 align="left">Build my project using</h2>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=black&style=for-the-badge" height="40" alt="jupyter logo"  />
+</div>
+
+###
