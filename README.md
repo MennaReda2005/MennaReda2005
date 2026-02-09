@@ -53,6 +53,12 @@
   <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="40" alt="pandas logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" height="40" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/scikit--learn-2E8B57?logo=scikitlearn&logoColor=white&style=for-the-badge" height="40" alt="scikit learn logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Matplotlib-D81B60?logo=matplotlib&logoColor=white&style=for-the-badge" height="40" alt="matplotlib logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Seaborn-008080?logo=seaborn&logoColor=white&style=for-the-badge" height="40" alt="seaborn logo"  />
 </div>
 
 ###
