@@ -1,21 +1,27 @@
 # Hi, I'm Menna Reda 👋
-Computer and Systems Engineering student passionate about Artificial Intelligence and Machine Learning.
 
-I build practical ML solutions that analyze data, detect patterns, and solve real-world problems — especially sensor data and anomaly detection systems.
+Machine Learning Engineer interested in building AI systems that understand data and make useful predictions.
+
+I focus on clear results, practical solutions, and models that actually work in real use — not just theory.
 ###
 
 ## What I focus on
 - Data preprocessing & cleaning
 - Feature engineering
 - Machine learning models
+- Deep learning architectures
+- Computer vision applications
+- Natural language processing (NLP)
 - Data visualization
 - Real-time prediction systems
 ###
+
 ## Currently
 - Learning advanced machine learning
 - Building real-world AI projects
 - Preparing for AI engineering career
 ###
+
 <h2 align="left">My Profiles</h2>
 
 ###
