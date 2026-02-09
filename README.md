@@ -1,11 +1,21 @@
-<h1 align="left">Hi 👋! My name is Menna .</h1>
+# Hi, I'm Menna Reda 👋
+Computer and Systems Engineering student passionate about Artificial Intelligence and Machine Learning.
 
+I build practical ML solutions that analyze data, detect patterns, and solve real-world problems — especially sensor data and anomaly detection systems.
 ###
 
-<h2 align="center">Machine Learning Engineer    | Building Predictive Models from Real Data</h2>
-
+## What I focus on
+- Data preprocessing & cleaning
+- Feature engineering
+- Machine learning models
+- Data visualization
+- Real-time prediction systems
 ###
-
+## Currently
+- Learning advanced machine learning
+- Building real-world AI projects
+- Preparing for AI engineering career
+###
 <h2 align="left">My Profiles</h2>
 
 ###
