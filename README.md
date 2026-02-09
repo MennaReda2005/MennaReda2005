@@ -21,7 +21,14 @@ I focus on clear results, practical solutions, and models that actually work in 
 - Building real-world AI projects
 - Preparing for AI engineering career
 ###
-
+## Capabilities
+- Build and evaluate machine learning models
+- Analyze datasets and extract meaningful insights
+- Select suitable algorithms based on problem type
+- Improve model performance using tuning and validation
+- Deploy machine learning models for real-world usage
+- Present results in a clear and understandable way
+###
 <h2 align="left">My Profiles</h2>
 
 ###
