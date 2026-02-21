@@ -99,7 +99,7 @@ I focus on clear results, practical solutions, and models that actually work in 
 <div align="left">
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=black&style=for-the-badge" height="40" alt="gitlab logo"  />
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=github&logoColor=black&style=for-the-badge" height="40" alt="github logo"  />
 </div>
 
 ###
