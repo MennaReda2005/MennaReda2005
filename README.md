@@ -61,10 +61,9 @@ I focus on clear results, practical solutions, and models that actually work in 
   <img width="12" />
   <img src="https://img.shields.io/badge/MATLAB-FF8C00?logo=mathworks&logoColor=white&style=for-the-badge" height="40" alt="matlab logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/C++-8A2BE2?logo=cplusplus&logoColor=white&style=for-the-badge" height="40" alt="cplusplus logo"  />
-</div>
+ <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="40" alt="C"/>
+   <img width="12" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" height="40" alt="C++"/>
 
 ###
 
